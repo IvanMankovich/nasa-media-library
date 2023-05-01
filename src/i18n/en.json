@@ -1,0 +1,69 @@
+{
+  "common": {
+    "appName": "Nasa Media Library",
+    "bck": "Back",
+    "btm": "Back to main page",
+    "nf": "Page not found",
+    "sorry": "Sorry, we couldn’t find the page you’re looking for.",
+    "gohome": "Go back home"
+  },
+  "form": {
+    "t": "Search form",
+    "f": {
+      "search": {
+        "name": "Search",
+        "ph": "E.g. NASA, SpaceX",
+        "e": {
+          "empty": "Please, fill this field"
+        }
+      },
+      "year_start": {
+        "name": "Year start",
+        "ph": "Select start year",
+        "e": {
+          "min": "Value should be positive",
+          "max": "Value cannot be bigger than current or selected end year",
+          "ol": "Year values overlapped",
+          "val": "Invalid value"
+        }
+      },
+      "year_end": {
+        "name": "Year end",
+        "ph": "Select end year",
+        "e": {
+          "min": "Value should be positive",
+          "max": "Value cannot be less than selected start year",
+          "ol": "Year values overlapped",
+          "val": "Invalid value"
+        }
+      }
+    },
+    "btn": {
+      "sbmt": "Search",
+      "res": "Reset"
+    }
+  },
+  "page": {
+    "btn": {
+      "next": "Next",
+      "prev": "Previous"
+    },
+    "text": {
+      "sh": "Showing",
+      "to": "to",
+      "of": "of",
+      "res": "results",
+      "nores": "Not found :("
+    }
+  },
+  "photo": {
+    "ph": "Photographer:",
+    "loc": "Location:",
+    "date": "Date:",
+    "more": "Read more",
+    "kwds": "Keywords:"
+  },
+  "ft": {
+    "text": "This project created with educational purposes only. Search results are based on images.nasa.gov API search and images.nasa.gov only is reponsible for loaded content."
+  }
+}
